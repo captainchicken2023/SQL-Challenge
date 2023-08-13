@@ -38,3 +38,6 @@ List the frequency counts, in descending order, of all the employee last names (
 Resources:
 https://www.dotnettricks.com/learn/sqlserver/different-types-of-sql-keys
 https://www.dotnettricks.com/learn/sqlserver/difference-between-primary-key-and-unique-key
+https://www.geeksforgeeks.org/composite-key-in-sql/
+https://stackoverflow.com/questions/62334496/unable-to-explain-this-error-there-is-no-unique-constraint-matching-given-keys
+AskBCS
