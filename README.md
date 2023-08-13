@@ -36,3 +36,5 @@ List the frequency counts, in descending order, of all the employee last names (
 
 
 Resources:
+https://www.dotnettricks.com/learn/sqlserver/different-types-of-sql-keys
+https://www.dotnettricks.com/learn/sqlserver/difference-between-primary-key-and-unique-key
